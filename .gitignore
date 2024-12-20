@@ -1,0 +1,15 @@
+.vscode/
+
+venv/
+
+__pycache__/
+*.pyc
+*.pyo
+
+.ipynb_checkpoints/
+
+Thumbs.db
+
+*.log
+
+models/
