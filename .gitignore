@@ -11,5 +11,3 @@ __pycache__/
 Thumbs.db
 
 *.log
-
-models/
